@@ -1,0 +1,5 @@
+com\uri\pw\controllers\TarefaController.class
+com\uri\pw\TarefasApplication.class
+com\uri\pw\services\TarefaService.class
+com\uri\pw\entities\Tarefa.class
+com\uri\pw\repositories\TarefaRepository.class
